@@ -1,0 +1,5 @@
+gsap.from(".boun", {y: 30, ease: "bounce", duration: 3})
+gsap.from(".one", {opacity: 0, duration: 2, delay: 1, stagger: .6})
+gsap.from(".btn", {y: 30, opacity: 0, delay: 3})
+gsap.from(".title_text", {y: 30, opacity: 0, duration: 2})
+gsap.from(".anim", {y: 30, opacity: 0, delay: 3})

@@ -1,0 +1,160 @@
+
+.sergery_section {
+    background: url(images/sergery_pic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.orto_section {
+    background: url(images/orto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.second_section {
+    background: url(images/main_photo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+hr {
+    border-top: 3px solid #293462;
+    width: 30%;
+ margin: 0px auto;
+ margin-top: 10px;
+ margin-bottom: 5px;
+   }
+   .our_service {
+    text-align: center;
+    font-size: 20px;
+   }
+li {
+    font-size: 20px;
+}
+   
+  
+
+   .fontSize {
+       font-size: 12px;
+   }
+   .color {
+       background-color: #293462;
+   }
+   .nav-link {
+       color: white;
+   }
+
+   .hover-link:hover {
+    transform: scale(1.4);
+    color: aqua;
+}
+.header_paragraf {
+  font-size: 15px;
+}
+.main {
+    background-color: #C2D9FF;
+}
+.font {
+    font-family: 'Lato', sans-serif;
+}
+
+
+fixed-top
+.navbar-brand {
+    color: #293462;
+    text-align: center;
+    
+}
+
+.shrift {
+    font-size: 20px;
+    text-align: center;
+    
+}
+.footer_color {
+    background-color: antiquewhite;
+}
+
+.size {
+font-size: 10px;
+}
+.button_color {
+background-color: rgb(32, 18, 76);
+border-radius: 50%;
+padding: 20px;
+}
+
+.second_menu {
+    margin-top: 0px;
+}
+
+
+.left-zao {
+    margin-left: 25px;
+}
+.fontColor {
+    color: rgb(30, 62, 95);
+    letter-spacing: 2px;
+}
+.ourService {
+    margin-left: 15px;
+    letter-spacing: 1px;
+}
+.iconLeft {
+    margin-right: 4px;
+}
+.time {
+    margin-left: 33px;
+}
+.dist {
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    text-align: justify;
+}
+.tick {
+  
+ text-align: center;
+}
+.tickLeft {
+    margin-right: 5px;    text-align: left;
+}
+.xray_section {
+    background: url(images/x-ray-teeth.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    width: 100%;
+}
+.ray {
+    text-align: center;
+}
+.button_position {
+   margin-left: 280px;
+}
+
+.ray_top {
+    margin-top: 50px;
+}
+.orto_types {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.footer_list {
+    font-size: 15px;
+}
+.about_us {
+    display: flex;
+  justify-content: center;
+}
+.title_font {
+    font-size: 14px;
+}
+.sh {
+    box-shadow: 10px 5px 5px grey;
+}
